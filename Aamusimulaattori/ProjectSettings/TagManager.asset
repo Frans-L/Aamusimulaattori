@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - StoveRallyPoint1
+  - StoveRallyPoint2
+  - EquipmentControl
+  - AxeActionHitBox
+  - ObjectMasters
+  - MasterLog
+  - ThermometerFill
+  - StumpExtension
+  - ClonesHolder
+  - CooldownText
+  - StoveBurnObject
+  - UIHotSpotMission1
+  - UIHotSpotMission2
+  - UIHotSpotTitle
+  - UICornerMission1
+  - ThermometerCircle
+  - MasterLogBushes
+  - UIMissionStack1
+  - UIMissionStack2
+  - UIMissionStack3
+  - UIMenu
+  - UIAchievement
+  - BackgroundMusic
+  - Crosshair
+  - EquipmentAxe
+  - EquipmentRK62
+  - UICredits
+  - SleepingBag
+  - EquipmentBottle
+  - GameLostTitle
+  - UIScoreMultiplier
+  - UIButtons
+  - Leader
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - RayCastIgnore
+  - ShadowCaster
+  - Normal
+  - Equipment
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 51acd1be982b04db08dceea9dbaeeb99
+timeCreated: 1500565239
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - OnFireParticles: {fileID: 1838862865180366, guid: 571aa6315fbd540f6b737dee20634cce,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
